@@ -36,7 +36,7 @@ const Hero = () => {
             max-width: ${rhythm(15)};
           `}
         >
-          All about React | Express | Node | MongoDB | Full Stack Dev.
+          Welcome to my blog.
         </h1>
       </Container>
       <div
