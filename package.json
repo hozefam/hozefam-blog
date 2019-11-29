@@ -1,0 +1,19 @@
+{
+  "name": "hozefam-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@eggheadio/gatsby-theme-egghead-blog": "^2.0.1",
+    "gatsby": "^2.18.5",
+    "gatsby-plugin-manifest": "^2.2.30",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
