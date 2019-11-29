@@ -1,13 +1,20 @@
 {
   "name": "hozefam-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hozefa Personal Blog",
   "main": "index.js",
   "scripts": {
     "build": "gatsby build"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "gatsby",
+    "eggheadio",
+    "gatsby-theme",
+    "react",
+    "hozefam",
+    "blog"
+  ],
+  "author": "Hozefa Mangalorewala",
   "license": "ISC",
   "dependencies": {
     "@eggheadio/gatsby-theme-egghead-blog": "^2.0.1",
